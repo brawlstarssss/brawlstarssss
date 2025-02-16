@@ -7,7 +7,9 @@ My Chemical Romance is an American rock band from New Jersey. The band's current
 Formed in September 2001 by Gerard, Mikey, Toro, and drummer Matt Pelissier (and later joined by Iero), the band signed with Eyeball Records and released their debut album, I Brought You My Bullets, You Brought Me Your Love, in 2002. They signed with Reprise Records the next year and released their major-label debut, Three Cheers for Sweet Revenge, in 2004. Shortly after the album's release, Pelissier was replaced by Bob Bryar. The album was a commercial success, attaining platinum status over a year later.
 
 The success of the band's previous albums was eclipsed by that of their 2006 rock opera concept album, The Black Parade. A major commercial success, its lead single "Welcome to the Black Parade" topped the UK singles chart. The album solidified the band's following, despite negative coverage in the Daily Mail generating controversy. The band's fourth studio album, Danger Days: The True Lives of the Fabulous Killjoys, was released in 2010. Bryar departed the band prior to the release of the album, and in 2012, they added touring keyboardist James Dewees. In 2012 and 2013, the band released a series of singles they had recorded in 2009 under the collective title Conventional Weapons. My Chemical Romance announced its breakup on March 22, 2013. In 2014, a greatest hits album titled May Death Never Stop You was released and a tenth-anniversary reissue of The Black Parade was released in 2016.
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/NBrz1pMvDSwV3YG8hz/giphy.gif?cid=6c09b9525h6g3akyy8xf8n60zhx69vfloymr85ahwte7e0mq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="500"/>
+</div>
 On October 31, 2019, the band announced a reunion show, which took place in Los Angeles on December 20, 2019. In January 2020, they announced additional shows and a Reunion Tour, which commenced in 2022 after a two-year postponement due to the COVID-19 pandemic and concluded in early 2023.
 
 History
@@ -26,7 +28,9 @@ Main article: Three Cheers for Sweet Revenge
 On August 31, 2003, the band announced via their website that they had signed a deal with Reprise Records.[1][15] The band's second album, Three Cheers for Sweet Revenge, was released on June 8, 2004.[16][17] A month after the album's release, the band replaced Matt Pelissier with Bob Bryar.[1] The band released four singles from the album: "I'm Not Okay (I Promise)", "Thank You for the Venom", "Helena", and "The Ghost of You".[18] The album went platinum in just over a year after its release.[11][19][20]
 
 At the beginning of 2005, the band was featured on the first Taste of Chaos tour along with The Used and Killswitch Engage.[21] The band also was the opening act for Green Day on their American Idiot tour.[22] They then co-headlined Warped Tour 2005 with Fall Out Boy and co-headlined a tour with Alkaline Trio and Reggie and the Full Effect around the US.[23] That same year, My Chemical Romance collaborated with The Used for a cover of the Queen and David Bowie song, "Under Pressure", which was released as a benefit single for tsunami relief on iTunes and other Internet outlets.[24]
-
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/gMR5MsxzPU3wbVMaxX/giphy.gif?cid=6c09b952kkc02q09f42f5wfg98equh21vjfftnjvr09k0t34&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="500"/>
+</div>
 In March 2006, the album Life on the Murder Scene was released, incorporating a CD and two DVDs. It included one documentary DVD chronicling the band's history, and a second DVD with music videos, the making of their videos and live performances. An unauthorized biography DVD Things That Make You Go MMM! was also released in June 2006. The DVD does not actually feature any My Chemical Romance music clips or performances but contains interviews with those who knew the band before much of their fame.[25][26][27] A biography titled Something Incredible This Way Comes was also released, written by Paul Stenning and published in 2006. It features information on their beginnings right through to their third album, The Black Parade.[28]
 
 2006–2009: The Black Parade
@@ -154,4 +158,7 @@ In 2020, Kerrang! deemed the band "the rock superstars of the 21st century" whil
 
 LGBT community
 In Archer, Vince Ruston commented on the band's popularity in the queer and LGBT communities: "My Chemical Romance wanted to speak to and raise up every person who had ever felt outcast, downtrodden, or alienated. Queer teens were a huge part of that demographic".[249] Similarly, Michelle Hyun Kim described Gerard Way as a "queer icon" in Them, and that "after the band announced their reunion on Halloween 2019, I saw tweets from LGBTQ+ folks around the world claiming, in some way or another, that MCR either served as a queer awakening or fostered their queerness."[250] The band have long been supportive of LGBT rights[249] and embraced their LGBT fandom.[251]
-
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/8lUVYaPQOFn3gOx1jg/giphy.gif?cid=6c09b952ncz83l9kk1ordsr4ogaptichrnmmrxykiy1swbj0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="500"/>
+</div>
+bye gay
