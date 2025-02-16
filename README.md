@@ -155,4 +155,3 @@ In 2020, Kerrang! deemed the band "the rock superstars of the 21st century" whil
 LGBT community
 In Archer, Vince Ruston commented on the band's popularity in the queer and LGBT communities: "My Chemical Romance wanted to speak to and raise up every person who had ever felt outcast, downtrodden, or alienated. Queer teens were a huge part of that demographic".[249] Similarly, Michelle Hyun Kim described Gerard Way as a "queer icon" in Them, and that "after the band announced their reunion on Halloween 2019, I saw tweets from LGBTQ+ folks around the world claiming, in some way or another, that MCR either served as a queer awakening or fostered their queerness."[250] The band have long been supportive of LGBT rights[249] and embraced their LGBT fandom.[251]
 
-Tours
