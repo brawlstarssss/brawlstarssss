@@ -1,6 +1,8 @@
 dni but if you really want to interact – w2i
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/qnpbEA4tZV4oBlLjBJ/giphy.gif?cid=6c09b952rko8m9s03sfr1mworvip729cfm1avbxd25o6a1mr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media4.giphy.com/media/WOaHDZVO708zsQiUQc/giphy.gif?cid=6c09b9527id08gxsv4lp66zy2ebt3d9w7ptskn239fjn4ygf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="250"/>
 </div>
-
+<div id="header" align="left">
+  <img src="https://media4.giphy.com/media/j6qJfSy7i6rkqdsQjh/giphy.gif?cid=6c09b952nkrd1hog0dxogue0e6gfzqymkhwbh2tc9rc3fbab&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50"/>
+</div>
 
