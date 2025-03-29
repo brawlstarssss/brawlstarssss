@@ -8,5 +8,5 @@ dni but if you really want to interact – w2i
 <div id="header" align="right">
   <img src="https://media2.giphy.com/media/l41lZTWHvKfsskmpW/giphy.gif?cid=6c09b952q8fucg99lprb2e3qv1p9hzqviustgs4p6tghrcdg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts" width="40"/>
 </div>
-![](https://komarev.com/ghpvc/?username=brawlstarssss)
+
 
